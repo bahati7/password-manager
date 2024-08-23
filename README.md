@@ -1,3 +1,25 @@
+# Password Manager App
+## Overview
+
+This React application, built with Firebase, provides a secure and convenient way for users to manage their passwords. The app utilizes Google Authentication for login, generates strong passwords automatically, and allows users to store and manage their password credentials.
+
+## Key Features:
+
+Google Authentication: Users can log in to the app using their Google account, ensuring a secure and familiar authentication process.
+
+Password Generation: The app generates strong, random passwords automatically, eliminating the need for users to create complex passwords manually.
+
+Password Copy: Users can easily copy the generated password to their clipboard with a simple click, making it convenient to use in other applications.
+
+Password Storage: Users can store the generated password along with the corresponding app or site name in the application. This helps organize and manage passwords effectively.
+
+Password Management: Users have the ability to view, edit, and delete stored passwords. This provides flexibility and control over their password data.
+Technologies Used:
+
+React: A popular JavaScript library for building user interfaces.
+Firebase: A backend-as-a-service platform that provides authentication, database, and hosting capabilities.
+Google Authentication: A library for integrating Google sign-in into the application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
